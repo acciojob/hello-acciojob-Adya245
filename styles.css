@@ -3,7 +3,8 @@
 #job{
 	width: 150px;
 	height: 150px;
-	background-color: #ffffff;
+	background-color: #000000;
 	margin-left: 32px;
 	padding: 10px;
+	color: #ffffff;
 }
